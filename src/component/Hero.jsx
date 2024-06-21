@@ -31,7 +31,7 @@ const Hero = () => {
             Hello, I'm <span className="waving-hand">👋</span>
           </h5>
           <h1>DAGUNDURO EMMANUEL.</h1>
-          <p> A Fullstack Developer</p>
+          <p> A Frontend Developer</p>
           <article className="left-in">
             I'm a creative enthusiast committed to creating captivating digital
             experiences.With a keen eye for design and functionality, I bring
