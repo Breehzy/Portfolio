@@ -62,14 +62,14 @@ const Getintouch = () => {
         <h2>Get In Touch</h2>
         <ul className="social-icons">
           <li className="email">
-            <a href="mailto:falolatosin8@gmail.com">
+            <a href="mailto:emmanueldagunduro!2gmail.com">
               <FaEnvelope />
             </a>
           </li>
 
           <li className="whats">
             <a
-              href="https://wa.me/+2348134098042"
+              href="https://wa.me/+2348175537402"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -78,7 +78,7 @@ const Getintouch = () => {
           </li>
           <li className="whats">
             <a
-              href="tel:+2348134098042"
+              href="tel:+2348165761194"
               target="_blank"
               rel="noopener noreferrer"
             >
