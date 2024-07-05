@@ -94,7 +94,7 @@ const Projects = () => {
               </div>
             </motion.div>
           </motion.div>
-          <motion.div
+          {/* <motion.div
             initial={"setOff"}
             whileInView={"setIn"}
             viewport={{ once: false, amount: 0.2 }}
@@ -149,7 +149,7 @@ const Projects = () => {
                 </div>
               </div>
             </motion.div>
-          </motion.div>
+          </motion.div> */}
           <motion.div
             initial={"setOff"}
             whileInView={"setIn"}
